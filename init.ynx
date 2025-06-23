@@ -1,0 +1,4 @@
+theme load Yunux_Cosmos
+appmaker --autostart
+gamebuilder --silentmode
+echo "Yunux OS v3.0 başlatılıyor..."
